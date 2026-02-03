@@ -92,3 +92,4 @@ A.8.31,"Separation of development, test and production environments",Y,"Strict s
 A.8.32,Change management,Y,Formal change management process for all production changes.,Planned,IT & Security / Operations,"R-03, R-08","Change approval workflow, change logs, rollback procedures."
 A.8.33,Test information,Y,"Use of sanitized or synthetic data for testing, not production data.",Planned,IT & Security,"R-12, R-14","Test data policy, data masking/anonymization."
 A.8.34,Protection of information systems during audit and testing,Y,Ensure audits and security tests do not disrupt production systems.,Planned,IT & Security / Operations,"R-07, R-20","Audit coordination procedures, read-only access for auditors, test schedules."
+
