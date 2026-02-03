@@ -1,6 +1,6 @@
 # ISO 27001:2022 Statement of Applicability – SaaS (AWS, Qatar)
 
-This SoA covers all 93 Annex A controls for a mid-sized cloud-based SaaS company hosted on AWS and operating in Qatar. It is based on an internal ISO 27001:2022 risk register and ISMS scope defined in this repository. [web:31][web:48][web:58]
+This SoA covers all 93 Annex A controls for a mid-sized cloud-based SaaS company hosted on AWS and operating in Qatar. It is based on an internal ISO 27001:2022 risk register and ISMS scope defined in this repository.
 
 | Control ID | Control Name | Applicable | Status | Owner |
 |-----------|--------------|-----------|--------|-------|
